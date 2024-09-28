@@ -15,4 +15,8 @@ public class Car {
         car.feature = new Feature(null, null , 0);//124
         car.feature.year = 32;
     }
+
+    public void test() {
+        System.out.println("Hello, Github!");
+    }
 }
